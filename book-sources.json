@@ -1,6 +1,5 @@
 {
-  "manifestUrl": "https://raw.githubusercontent.com/ShaUDOmbai/Apocryph-Archive/main/book-sources.json",
-  "baseUrl": "",
+  "baseUrl": ".",
   "format": "fb2",
   "groupByUniverse": true,
   "books": {}
