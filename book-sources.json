@@ -1,10 +1,7 @@
 {
+  "manifestUrl": "https://raw.githubusercontent.com/ShaUDOmbai/Apocryph-Archive/main/book-sources.json",
   "baseUrl": "",
   "format": "fb2",
   "groupByUniverse": true,
-  "books": {
-    "hh-01-horus-rising": "warhammer40k/hh-01-horus-rising.fb2",
-    "hh-02-false-gods": "warhammer40k/hh-02-false-gods.fb2",
-    "wt-last-wish": "witcher/wt-last-wish.fb2"
-  }
+  "books": {}
 }
